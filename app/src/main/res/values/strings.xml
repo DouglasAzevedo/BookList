@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lista de Livros</string>
+
+    <string name="books">Meus Livros</string>
+    <string name="title">Titulo</string>
+    <string name="author">Autor</string>
+    <string name="note">Nota</string>
+    <string name="save">Salvar</string>
+    <string name="lido">Lido</string>
+    <string name="queroler">Quero Ler</string>
+    <string name="lendo">Lendo</string>
+    <string name="abandonado">Abandonado</string>
+</resources>
